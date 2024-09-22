@@ -4,9 +4,9 @@ if (isset($_GET['cid'])) {
     $customerId = $_GET['cid'];
 
     // Establish database connection
-    $hostname = "imc.kean.edu";
-    $username = "marsanto";
-    $password = "1149215";
+    $hostname = "XXXXX";
+    $username = "XXXXX";
+    $password = "XXXXX";
     $dbname = "CPS3740_2023F";
 
     // Create connection
