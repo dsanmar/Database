@@ -1,9 +1,9 @@
 <?php
 // Establish database connection
 $hostname = "imc.kean.edu";
-$username = "marsanto";
-$password = "1149215";
-$dbname = "CPS3740";
+$username = "XXXXX";
+$password = "XXXXX";
+$dbname = "XXXXX";
 
 $conn = new mysqli($hostname, $username, $password, $dbname);
 
