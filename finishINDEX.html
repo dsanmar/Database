@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Maria Homepage</title>
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+    <!-- Created Home Page -->
+    <h3> Welcome to Maria Santos Perez CPS3740 Project </h3>
+     <!-- Provide link to view customers -->
+    <br> <a href="view_customers.php" target="_blank">View all Customers</a> <br>
+
+     <!-- Form for product search used GET -->
+    <form action="search_products.php" method="GET">
+        <label for="searchInput">Search product names: (Enter * to show all prodcuts)</label> <br>
+        <input type="text" id="searchInput" name="keyword" required>
+        <button type="submit">Search</button>
+    </form>
+   <br>
+    <!-- Form for user login used GET -->
+    <form action="login.php" method="GET">
+        <label for="username">Login ID:</label>
+        <input type="text" id="username" name="username" required>
+        <br><br>
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" required>
+        <button type="submit">Login</button>
+    </form>
+    
+</body>
+</html>
