@@ -41,7 +41,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos some of the app's implemented features:
 
-![Kapture 2024-04-09 at 01 57 09](https://github.com/dsanmar/Project-7-CYOAPI/assets/112789315/6e7cd99e-3d39-41df-b556-4cf6c76fb1ad)
+![Kapture 2024-09-21 at 22 48 17](https://github.com/user-attachments/assets/ee0e1c0e-9aaf-4d6b-876e-0502f51db988)
 
 GIF created with **Kap**
 
