@@ -6,7 +6,7 @@ Submitted by: **Maria Santos Perez**
 
 This project is a simple web-based order management system developed using PHP. It allows customers to view, place, and manage their product orders. The project includes basic authentication, order history management, and the ability to place and modify orders. This project was designed to help understand the core concepts of database interaction and handling user orders through a simple, barebone interface **
 
-If I had to describe this project in three (3) emojis, they would be: **✨🖥️ ☺️ here**
+If I had to describe this project in three (3) emojis, they would be: **✨🖥️ ☺️**
 
 ## Application Features
 
