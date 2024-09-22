@@ -16,19 +16,23 @@ The following REQUIRED features are completed:
 - [X] Users can log in using their credentials stored in the Customers database
 - [X] Error messages are shown for invalid logins or incorrect passwords
 - [X] Successfully logged-in users can access their homepage and order management functions
+
 **User Homepage**
 - [X] Displays the user's personal information: name, birthday, age, address, and IP address.
 - [X] Shows the logged-in customer's image.
 - [X] Displays a message indicating whether the user is logging in from the Kean domain.
 - [X] Provides links to: "Order Product", "View, change, cancel my order history", "Logout"
+
 **Order Product**
 - [X] Displays all products available for purchase in a table format with headers.
 - [X] Customers can input the desired quantity to place an order. The quantity is required to proceed with the order.
+
 **View, Change, Cancel Orders**
 - [X] Shows the logged-in customer's past orders in a table format.
 - [X] Displays order details such as order ID, product name, etc.
 - [X] Provides functionality to cancel an order or change the quantity for each order.
 - [X] Uses the GET method for easy testing of customer actions like order viewing and modification.
+
 **Place Orders**
 - [X] Validates order input for errors such as non-integer quantities or quantities exceeding the available stock.
 - [X] Adds valid orders to the Order table in the database
