@@ -39,9 +39,9 @@ th, td {
   </tr>
 
 <?php
-$hostname = "imc.kean.edu";
-$username = "marsanto";
-$password = "1149215";
+$hostname = "XXXXX";
+$username = "XXXXX";
+$password = "XXXXX";
 $database = "dreamhome";
 
 $conn = new mysqli($hostname, $username, $password, $database);
