@@ -1,8 +1,8 @@
 <?php
 // Establish database connection 
-  $hostname = "imc.kean.edu";
-  $username = "marsanto";
-  $password = "1149215";
+  $hostname = "XXXXX";
+  $username = "XXXXX";
+  $password = "XXXXX";
   $dbname = "CPS3740";
  
 // Create connection
