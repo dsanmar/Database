@@ -1,4 +1,4 @@
-# Intro to Database Management Sytem 
+# Intro to Database Management System 
 
 Submitted by: **Maria Santos Perez**
 
