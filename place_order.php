@@ -12,9 +12,9 @@ if (isset($_GET['cid'], $_GET['pid'], $_GET['pid_order_qty'])) {
     } else {
 
         // Establish database connection
-        $hostname = "imc.kean.edu";
-        $username = "marsanto";
-        $password = "1149215";
+        $hostname = "XXXXX";
+        $username = "XXXXX";
+        $password = "XXXXX";
         $dbname = "CPS3740";
 
         $conn = new mysqli($hostname, $username, $password, $dbname);
